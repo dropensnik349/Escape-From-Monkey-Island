@@ -221,4 +221,4 @@ Escape from Monkey Island is available as a complete free version with all featu
 Dive into the thrilling world of Escape from Monkey Island today! Download it now and join Guybrush on his legendary adventure!
 
 ---
-**Last updated:** 2026-11-09 18:30:07 UTC
+**Last updated:** 2026-11-10 01:54:46 UTC
